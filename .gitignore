@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore data file from repo
+data/loan.csv
